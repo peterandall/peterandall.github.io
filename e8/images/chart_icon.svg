@@ -1,0 +1,11 @@
+<svg class="nc-icon outline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64">
+<g transform="translate(0, 0)">
+<rect x="26" y="36" fill="none" stroke="#434443" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="12" height="24" stroke-linejoin="miter"></rect>
+<rect x="6" y="48" fill="none" stroke="#434443" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="12" height="12" stroke-linejoin="miter"></rect>
+<rect x="46" y="24" fill="none" stroke="#434443" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" width="12" height="36" stroke-linejoin="miter"></rect>
+<polyline data-cap="butt" data-color="color-2" fill="none" stroke="#434443" stroke-width="2" stroke-miterlimit="10" points="12,22 22,12 32,22 
+	52,2 " stroke-linejoin="miter" stroke-linecap="butt"></polyline>
+<polyline data-color="color-2" fill="none" stroke="#434443" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="
+	40,2 52,2 52,14 " stroke-linejoin="miter"></polyline>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="312px" height="74px" viewBox="0 0 312 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>line_dotted</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line_dotted" sketch:type="MSArtboardGroup" stroke="#199F71" stroke-width="2" stroke-linecap="round" opacity="0.6" stroke-linejoin="round" stroke-dasharray="0.5,5">
+            <path d="M168.921162,71.9999977 L168.921162,52.6938178 C168.921162,44.3511938 175.672179,37.5881607 184.026819,37.5881607 L309.052632,37.5881607" id="Rectangle-1-Copy-32" sketch:type="MSShapeGroup" transform="translate(238.986897, 54.794079) scale(-1, 1) translate(-238.986897, -54.794079) "></path>
+            <path d="M153.921163,37.2654266 C156.921163,28.2654262 159.751017,27.6655083 168.105657,27.6655083 L170.884636,27.6655083" id="Rectangle-1-Copy-33" sketch:type="MSShapeGroup" transform="translate(162.402900, 32.465467) scale(1, -1) translate(-162.402900, -32.465467) "></path>
+            <path d="M135,37.2654266 L135,17.1056571 C135,8.76303306 141.751017,2 150.105657,2 L152.884636,2" id="Rectangle-1-Copy-34" sketch:type="MSShapeGroup" transform="translate(143.942318, 19.632713) scale(-1, -1) translate(-143.942318, -19.632713) "></path>
+            <path d="M3,69.9999977 L3,52.6938178 C3,44.3511938 9.75101719,37.5881607 18.1056571,37.5881607 L120.649509,37.4478672 L136.052632,37.4267937" id="Rectangle-1-Copy-35" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

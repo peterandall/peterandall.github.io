@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="312px" height="74px" viewBox="0 0 312 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>line_dotted</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.611" y="0.046" width="160.719" height="47.668"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line_dotted" sketch:type="MSArtboardGroup">
+            <g id="HeroAnimation_line" sketch:type="MSLayerGroup">
+                <path d="M150.611,0.714 L150.611,21.714 C150.611,28.341 145.239,33.714 138.611,33.714 L12.945,33.714 C6.317,33.714 0.945,39.087 0.945,45.714 L0.945,73.714" id="Shape" stroke="#179F71" stroke-width="2" stroke-dasharray="0,5.6693" sketch:type="MSShapeGroup"></path>
+                <g id="Clipped" transform="translate(150.000000, 26.000000)">
+                    <mask id="mask-2" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <path d="M0.611,-25.286 L0.611,-4.286 C0.611,2.341 5.983,7.714 12.611,7.714 L138.277,7.714 C144.904,7.714 150.277,13.087 150.277,19.714 L150.277,47.714" id="Shape" stroke="#179F71" stroke-width="2" stroke-dasharray="0,5.6693" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
