@@ -2706,7 +2706,8 @@ header {
   margin-bottom: 10px; }
 
 .logo {
-  max-width: 140px; }
+  max-width: 140px;
+  margin-bottom: 10px; }
 
 .h1 {
   margin-bottom: -10px;
